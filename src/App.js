@@ -25,7 +25,7 @@ function App() {
       return;
     }
     setLoading(true);
-    axios.get(`http://viacep.com.br/ws/${cep}/json/`)
+    axios.get(`https://viacep.com.br/ws/${cep}/json/`)
       .then(function (response) {
         setLoading(false);
         if (response.data.erro) {
