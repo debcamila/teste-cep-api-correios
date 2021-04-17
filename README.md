@@ -13,5 +13,6 @@ Agora você pode inserir o CEP a ser consultado!
 
 - React.js, como base da aplicação .
 - Material-Ui, como biblioteca de componentes para a prototipação rápida .
+- Axios, para a integração com a API .
 - API dos Correios utilizada: https://viacep.com.br/ .
 
