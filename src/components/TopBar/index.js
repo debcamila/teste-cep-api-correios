@@ -7,7 +7,7 @@ export default (function TopBarComponent() {
     return (
         <div>
             <div className="topbar">
-                <Typography variant="h4">Teste Prosas</Typography>
+                <Typography variant="h4">Teste CEP</Typography>
             </div>
         </div>
     )
